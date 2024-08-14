@@ -1,0 +1,10 @@
+ admit id   payment date  payment amount    mode of payment
+
+ad01      2024-01-26        54679             Credit card         
+ad01      2024-01-26        54679             Debit card          
+ad01      2024-01-27        54679             Credit card         
+ad02      2024-01-27        167560            cash                
+ad02      2024-01-27        167560            Credit card         
+ad02      2024-02-27        781160            Credit card         
+ad02      2024-02-28        899160            Credit card         
+ad02      2024-04-04        933902            Credit card         
