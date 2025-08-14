@@ -7,7 +7,7 @@ public class Splashform extends JFrame implements ActionListener
 {
 JLabel lblname=new JLabel("NURSING   HOME   MANAGEMENT   SYSTEM");
 JLabel lblby=new JLabel("DEVELOPED BY:");
-JLabel lblbyname=new JLabel("NILU,PRIYA,JYOTI,TANYA");
+JLabel lblbyname=new JLabel("NILU  GORAI");
 JButton btnok=new JButton("CANCEL");
 JLabel lbldivide=new JLabel();
 JLabel lblbackground=new JLabel();

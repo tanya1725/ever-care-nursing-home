@@ -38,7 +38,7 @@ JLabel lblmiddle3=new JLabel();
 JLabel lblmiddle4=new JLabel();
 JLabel lblmiddle5=new JLabel();
 
-JLabel lblby=new JLabel("TANYA GUPTA");
+JLabel lblby=new JLabel("NILU GORAI");
 JLabel lbldeveloped=new JLabel(new ImageIcon("images/developed.jpg"));
 JLabel lblbedchangelogo=new JLabel(new ImageIcon("images/bedchange2.jpg"));
 JLabel lblreportslogo=new JLabel(new ImageIcon("images/reports.jpg"));
